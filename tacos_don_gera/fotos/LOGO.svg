@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 656.29 85.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d13c3c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: InterItalic-ExtraBoldItalic, Inter;
+        font-size: 72px;
+        font-style: italic;
+        font-variation-settings: 'opsz' 14, 'wght' 800;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #f7c600;
+      }
+
+      .cls-4 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        fill: #8c1d1d;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 62.19)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-5" x="42.22" y="0">A</tspan><tspan x="94.36" y="0">COS DON GERA</tspan></text>
+  <text class="cls-2" transform="translate(4.59 62.19)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-5" x="42.22" y="0">A</tspan><tspan x="94.36" y="0">COS DON GERA</tspan></text>
+  <text class="cls-1" transform="translate(9.17 62.19)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-5" x="42.22" y="0">A</tspan><tspan x="94.36" y="0">COS DON GERA</tspan></text>
+</svg>

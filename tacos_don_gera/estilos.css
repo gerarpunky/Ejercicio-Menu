@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F7C600;
+    color: #262626;
+}
+
+.contenedor {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    max-width: 150px;
+    margin: 20px 0;
+}
+
+.contenido {
+    background-color: #F5F5F5;
+    margin: auto;
+    padding: 40px 20px;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 10px;
+}
+
+.imagen-producto {
+    max-width: 300px;
+    display: block;
+    margin: 20px auto 10px;
+}
+
+.texto-producto {
+    font-weight: bold;
+    color: #A52B2B;
+    margin-bottom: 40px;
+    font-size: 18px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
